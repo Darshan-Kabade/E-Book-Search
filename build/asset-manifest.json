@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fd92005f.css",
+    "main.js": "/static/js/main.becdeaac.js",
+    "static/media/bg2.jpg": "/static/media/bg2.ccf039ed9180c015de7e.jpg",
+    "index.html": "/index.html",
+    "main.fd92005f.css.map": "/static/css/main.fd92005f.css.map",
+    "main.becdeaac.js.map": "/static/js/main.becdeaac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd92005f.css",
+    "static/js/main.becdeaac.js"
+  ]
+}
